@@ -27,10 +27,10 @@ I'm also the **Founder & CEO of 10lonaz**, a custom software development company
 <a href="https://www.linkedin.com/in/mohamed-aasif-a81156263/">
   <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Aasif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/AsifVIP">
+<a href="https://github.com/aasifvip">
   <img src="https://img.shields.io/badge/GitHub-AsifVIP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:asifvip001@gmail.com">
+<a href="mailto:aasifvip001@gmail.com">
   <img src="https://img.shields.io/badge/Email-asifvip001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="http://10lonaz.com/">
